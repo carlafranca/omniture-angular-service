@@ -14,7 +14,7 @@ Add the tracksys.js to your Angularjs Application.
 
 Add the track to your controllers
 
-angular.module('YourAppName')
+'''angular.module('YourAppName')
   .controller('YourControllerName', [ 'Tracksys',
     function (Tracksys) {
  
@@ -30,3 +30,4 @@ angular.module('YourAppName')
  
     }
   ]);
+'''
