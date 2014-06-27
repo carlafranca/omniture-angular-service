@@ -1,7 +1,7 @@
 omniture-angular-service
 ========================
 
-Basic seed for a omniture trac system with.
+Basic seed for an Omniture&Angular track system
 
 Add the omniture and account to your project
 ```javascript
