@@ -23,14 +23,12 @@ angular.module('YourAppName')
   .controller('YourControllerName', [ 'Tracksys',
     function (Tracksys) {
  
-      ```
+     
       //On load page track
-      ```
       Tracksys.Tracksys('YOUR PAGE NAME’);
       
-      ```
+      
       //Click event track
-      ```
       $scope.clickFunction = function(event){
         Tracksys.trackClick(‘Your event name');
       };
