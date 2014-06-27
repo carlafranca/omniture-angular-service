@@ -30,7 +30,7 @@ angular.module('YourAppName')
       
       ```
       //Click event track
-       ```
+      ```
       $scope.clickFunction = function(event){
         Tracksys.trackClick(‘Your event name');
       };
