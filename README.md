@@ -7,7 +7,7 @@ Add the omniture and account to your project
 ```javascript
 <script type="text/javascript">var s_account = "YourAccount";</script>
 <script language="JavaScript" src="http://PATH-To-Your-Omniture-file/omniture.js"></script>
-<script src="Your-app-foler/tracksys.js"></script></code>
+<script src="Your-app-foler/tracksys.js"></script>
 ```
 
 Add the track to your controllers
